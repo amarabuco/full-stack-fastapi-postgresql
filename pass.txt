@@ -1,0 +1,11 @@
+secret_key
+37ba24193f2ec33c27c2277a4282cecb2ff94b4eff6c1e7b4e909a8ab8bc47a0
+
+superuser pass
+fast123
+
+postgres pass
+200551fc52632440257526854ba084eab5784b3375b91f672d8afe29eab0127d
+
+postgres user
+admin@fast-apps.com
